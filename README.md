@@ -1,6 +1,6 @@
-#Kboomjs Typescript Boilerplate
+# Kboomjs Typescript Boilerplate
 
-en:
+*en:*
 
 This is a geting started project for practice
 **game development** with **kaboom.js** library and **typescript**.
@@ -8,7 +8,7 @@ This is a geting started project for practice
 Happy hacking!
 
 
-es:
+*es:*
 
 El presente proyecto es un punto de partida para
 practicar **desarrollo de videojuegos** con la librería
@@ -16,7 +16,7 @@ practicar **desarrollo de videojuegos** con la librería
 
 ¡Diviértete!
 
-###Run the game (Ejecutar el juego)
+### Run the game (Ejecutar el juego)
 
 1- Compile sources
 
@@ -41,12 +41,12 @@ es:
 
 **src/**
 
-en:
+*en:*
 
     Here is the typescript source code implementing
     kaboom.js
 
-es:
+*es:*
 
     Aquí se encuentra el código fuente en typescript que implementa
     kaboom.js
@@ -54,16 +54,16 @@ es:
 
 **dist/**
 
-en: 
+*en:* 
 
     This directory contains the compiled js files of game.
 
-es: 
+*es:*
 
     Este directorio contiene los archivos compilados js del juego.
 
 
-###Links
+### Links
 
 **This example on codepen:**
 https://codepen.io/ennima/pen/eYWeXbG?editors=0010
