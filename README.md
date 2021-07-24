@@ -22,6 +22,10 @@ practicar **desarrollo de videojuegos** con la librería
 
 ### Run the game (Ejecutar el juego)
 
+0- Install dependencys
+
+    npm install
+
 1- Compile sources
 
     npm run tsc:w
