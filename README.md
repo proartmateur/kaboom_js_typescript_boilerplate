@@ -16,6 +16,10 @@ practicar **desarrollo de videojuegos** con la librería
 
 ¡Diviértete!
 
+
+
+
+
 ### Run the game (Ejecutar el juego)
 
 1- Compile sources
@@ -27,7 +31,10 @@ practicar **desarrollo de videojuegos** con la librería
     npm run dev
 
 
-###Files (Archivos)
+
+
+
+### Files (Archivos)
 
 **index.html**
 
