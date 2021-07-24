@@ -16,6 +16,16 @@ practicar **desarrollo de videojuegos** con la librería
 
 ¡Diviértete!
 
+###Run the game (Ejecutar el juego)
+
+1- Compile sources
+
+    npm run tsc:w
+
+2- Run the game on your browser
+    
+    npm run dev
+
 
 ###Files (Archivos)
 
@@ -23,34 +33,34 @@ practicar **desarrollo de videojuegos** con la librería
 
 en:
 
-This is de entrypoint of game.
+    This is de entrypoint of game.
 
 es:
 
-Es el punto de entrada del juego.
+    Es el punto de entrada del juego.
 
 **src/**
 
 en:
 
-Here is the typescript source code implementing
-kaboom.js
+    Here is the typescript source code implementing
+    kaboom.js
 
 es:
 
-Aquí se encuentra el código fuente en typescript que implementa
-kaboom.js
+    Aquí se encuentra el código fuente en typescript que implementa
+    kaboom.js
 
 
 **dist/**
 
 en: 
 
-This directory contains the compiled js files of game.
+    This directory contains the compiled js files of game.
 
 es: 
 
-Este directorio contiene los archivos compilados js del juego.
+    Este directorio contiene los archivos compilados js del juego.
 
 
 ###Links
